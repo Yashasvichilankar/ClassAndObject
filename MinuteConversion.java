@@ -10,7 +10,6 @@ Scanner sc=new Scanner(System.in);
 System.out.println("Enter the value in Minute: ");
 m=sc.nextInt();
 }
-
 void getData()
 {
 y=m/525600;
